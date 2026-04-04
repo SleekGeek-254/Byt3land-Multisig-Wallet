@@ -1,0 +1,5 @@
+# Solidity smart contracts require owner review
+*.sol @SleekGeek-254
+
+# All files require at least one review
+* @SleekGeek-254
